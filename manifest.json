@@ -1,7 +1,6 @@
-{
-  "name": "Nondischargeable Debts in Bankruptcy -- Section 523(a)",
+{"name": "Nondischargeable Debts",
   "short_name": "nondischargeable.org",
-  "description": "Free guide to debts that cannot be discharged in bankruptcy under Section 523(a). Learn which debts survive Chapter 7 and Chapter 13.",
+  "description": "Comprehensive guide to debts that survive bankruptcy under 11 U.S.C. Section 523",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0d1117",
