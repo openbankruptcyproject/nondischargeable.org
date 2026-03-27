@@ -1,17 +1,13 @@
 # nondischargeable.org
 
-> Nondischargeable Debts | nondischargeable.org
+> Guide to nondischargeable debts in bankruptcy -- debts that survive Chapter 7 and Chapter 13.
 
-Comprehensive guide to debts that survive bankruptcy under 11 U.S.C. Section 523
+nondischargeable.org is a free, open-source educational resource about debts that cannot be eliminated in bankruptcy. Part of the Bankruptcy Transparency Network.
 
-This site is part of the Bankruptcy Transparency Network -- free, open-source bankruptcy information based on national federal court data.
+## Pages
 
-## Related Sites
-- https://1328f.com -- Free bankruptcy discharge screener
-- https://1328f.org -- Research platform
-- https://bankruptcymill.org -- Bankruptcy mill detection
-- https://serialfiler.org -- Serial filing restrictions
-- https://dischargebar.org -- Discharge waiting periods
+- https://nondischargeable.org/: Guide to nondischargeable debts -- student loans, taxes, fraud, support obligations
 
 ## Contact
-- Ko-fi: https://ko-fi.com/ilikemath9999
+
+This site is maintained by volunteers. No legal advice is provided.
