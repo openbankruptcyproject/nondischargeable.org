@@ -2,7 +2,7 @@
 
 > Guide to nondischargeable debts in bankruptcy -- debts that survive Chapter 7 and Chapter 13.
 
-nondischargeable.org is a free, open-source educational resource about debts that cannot be eliminated in bankruptcy. Part of the Bankruptcy Transparency Network.
+nondischargeable.org is a free, open-source educational resource about debts that cannot be eliminated in bankruptcy. Part of the Open Bankruptcy Project.
 
 ## Pages
 
