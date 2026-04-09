@@ -1,13 +1,26 @@
-# nondischargeable.org
+# Nondischargeable Debts in Bankruptcy -- Guide [2026]
+> Which debts survive bankruptcy? Tax debts, student loans, fraud, alimony, and more. Complete guide to nondischargeable debts. 2026.
 
-> Guide to nondischargeable debts in bankruptcy -- debts that survive Chapter 7 and Chapter 13.
+## About
+nondischargeable.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-nondischargeable.org is a free, open-source educational resource about debts that cannot be eliminated in bankruptcy. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://nondischargeable.org/: Guide to nondischargeable debts -- student loans, taxes, fraud, support obligations
+## Key Pages
+- Nondischargeable Debts List -- Complete Guide to Debts That Survive Bankruptcy: https://nondischargeable.org/nondischargeable-debts-list.html
+- Adversary Proceedings to Determine Dischargeability -- Nondischargeable: https://nondischargeable.org/adversary-proceeding.html
+- Debts from Fraud -- Section 523(a)(2) -- Nondischargeable: https://nondischargeable.org/fraud-debts.html
+- Nondischargeable Debts in Bankruptcy -- Guide: https://nondischargeable.org/
+- The Complete List of 19 Nondischargeable Debts in Bankruptcy: https://nondischargeable.org/list-of-19.html
+- Personal Injury Judgments and Bankruptcy Discharge -- Nondischargeable: https://nondischargeable.org/personal-injury.html
+- Is Criminal Restitution Dischargeable in Bankruptcy? -- Nondischargeable: https://nondischargeable.org/restitution.html
+- Student Loans in Bankruptcy -- Section 523(a)(8) -- Nondischargeable: https://nondischargeable.org/student-loans.html
+- Domestic Support Obligations -- Section 523(a)(5) -- Nondischargeable: https://nondischargeable.org/support-obligations.html
+- Tax Debts in Bankruptcy -- Section 523(a)(1) -- Nondischargeable: https://nondischargeable.org/tax-debts.html
+- Willful and Malicious Injury -- Section 523(a)(6) -- Nondischargeable: https://nondischargeable.org/willful-injury.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
